@@ -1,3 +1,5 @@
 [user]
 	email = koue@chaosophia.net
 	name = Nikola Kolev
+[core]
+	pager = less -R
