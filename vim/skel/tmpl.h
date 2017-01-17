@@ -28,3 +28,7 @@
  *
  */
 
+#ifndef _[:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
+#define _[:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
+
+#endif
