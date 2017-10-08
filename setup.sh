@@ -2,6 +2,7 @@
 
 cp -n gitconfig ~/.gitconfig
 cp -n vimrc ~/.vimrc
+cp -n tmux.conf ~/.tmux.conf
 
 test -d ~/.vim/skel || mkdir -p ~/.vim/skel
 for i in `ls vim/skel/`
