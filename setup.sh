@@ -8,7 +8,7 @@ test -d ~/.vim/skel || mkdir -p ~/.vim/skel
 for i in `ls vim/skel/`
 do
 	cp -n vim/skel/$i ~/.vim/skel
-done 
+done
 
 test -d ~/bin || mkdir -p ~/bin
 for i in `ls bin/`

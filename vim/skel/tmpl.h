@@ -1,5 +1,5 @@
 /*
- * Copyright (c) [:VIM_EVAL:]strftime('%Y')[:END_EVAL:] Nikola Kolev
+ * Copyright (c) [:VIM_EVAL:]strftime('%Y')[:END_EVAL:] Nikola Kolev <koue@chaosophia.net>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -28,7 +28,7 @@
  *
  */
 
-#ifndef _[:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
-#define _[:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
+#ifndef [:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
+#define [:VIM_EVAL:]toupper(expand('%:r'))[:END_EVAL:]_H
 
 #endif

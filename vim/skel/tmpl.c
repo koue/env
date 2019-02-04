@@ -1,5 +1,5 @@
 /*
- * Copyright (c) [:VIM_EVAL:]strftime('%Y')[:END_EVAL:] Nikola Kolev
+ * Copyright (c) [:VIM_EVAL:]strftime('%Y')[:END_EVAL:] Nikola Kolev <koue@chaosophia.net>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
